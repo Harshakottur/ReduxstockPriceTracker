@@ -1,0 +1,6 @@
+/node_modules/
+
+/package-lock.json
+.next
+debug.log
+next-env.d.ts
